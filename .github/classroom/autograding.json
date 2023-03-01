@@ -25,7 +25,7 @@
       "setup": "",
       "run": "cat .github/script/STEP",
       "input": "",
-      "output": "^[^012]+$\r\n",
+      "output": "^[^012]+$",
       "comparison": "regex",
       "timeout": 10,
       "points": 10
